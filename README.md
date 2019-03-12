@@ -20,6 +20,8 @@ Extra files present in .tar : <files which are not listed .txt, but present in .
 ```
 
 ### Tests
-For testing purpose, I have included `filename_list.txt` and `test-1.tar`, `test-2.tar`
+For testing purpose, I have included `filename_list.txt` and `test-1.tar`, `test-2.tar`.
+
+This `.tar` files contains [publicly available test image data set by SIPI, University of Souther California](http://sipi.usc.edu/database/database.php?volume=textures).
 
 `test-1.tar` contains all and only files that are listed in `filename_list.txt`, wheras `test-2.tar` contains some files that are listed in `filename_list.txt` and some addition files.
